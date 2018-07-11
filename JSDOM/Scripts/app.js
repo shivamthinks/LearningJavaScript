@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML = "This text is coming from innerHTML property of HTML.";
